@@ -9,7 +9,7 @@ public class EndsWith0Test {
 	@Test
 	public void testToString() {
 		EndsWith0 zero = new EndsWith0();
-		assertEquals("EndsWith0 [names=Tan Trieu\n]", zero.toString());
+		assertEquals("EndsWith0 [names=Tan Trieu\nTyler Lundstrom\n]", zero.toString());
 	}
 
 }
