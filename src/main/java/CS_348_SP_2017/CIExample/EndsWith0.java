@@ -10,10 +10,10 @@ public class EndsWith0 {
 
 		// names+= "John Smith\n"
 
-		names += "Tan Trieu\n";
+		names+="Tan Trieu\n";
 		names+="Tyler Lundstrom\n";
 		names+="Benjamin Lagasse\n";
-		names+= "Sudarshan T\n";
+		names+="Sudarshan T\n";
 	}
 
 	@Override
