@@ -9,8 +9,7 @@ public class EndsWith0 {
 		// add your name here in the form of a line that looks like:
 
 		// names+= "John Smith\n"
-		names += "Tan Trieu\n";
-		names+="Tyler Lundstrom\n";
+		names+= "Sudarshan T\nTan Trieu\nTyler Lundstrom\n";
 	}
 
 	@Override
